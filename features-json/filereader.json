@@ -14,7 +14,7 @@
     }
   ],
   "bugs":[
-    
+    "FileReader is not defined for inside dedicated webworker with FireFox 25"
   ],
   "categories":[
     "JS API"
